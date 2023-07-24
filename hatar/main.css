@@ -1,0 +1,99 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.cards{
+    background: white;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.cards-image{
+
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+.family-1{
+   background-image: url("duplex-1.jpeg");
+}
+.family-2{
+    background-image: url("triplex-1.jpeg");
+}
+.family-3{
+    background-image: url("quadplex-2..jpeg");
+}
+.family-4{
+    background-image: url("triplex-2.jpeg");
+}
+.family-5{
+    background-image: url("duplex-2.jpg");
+}
+.family-6{
+    background-image: url("quadplex-1.jpeg");
+}
+.male-1{
+    background-image: url("bachelor(male1).jpg");
+}
+.male-2{
+    background-image: url("bachelor(male2).jpg");
+}
+.male-3{
+    background-image: url("bachelor(male3).jpg");
+}
+.male-4{
+    background-image: url("bachelor(male4).jpg");
+}
+.male-5{
+    background-image: url("bachelor(male5).jpg");
+}
+.male-6{
+    background-image: url("bachelor(male6).jpg");
+}
+
+.female-1{
+    background-image: url("bachelor(female1).jpg");
+}
+.female-2{
+    background-image: url("bachelor(female2).jpg");
+}
+.female-3{
+    background-image: url("bachelor(female3).jpg");
+}
+.female-4{
+    background-image: url("bachelor(female4).jpg");
+}
+.female-5{
+    background-image: url("bachelor(female5).jpg");
+}
+.female-6{
+    background-image: url("bachelor(female6).jpg");
+}
+.cards h2 {
+
+}
+.cards p{
+
+}
+.cards a{
+    background-color: black;
+    colour: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+}
+.cards:hover{
+    background-color: rgb(62,62,62);
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+
+}
+.rows{
+    justify-items: center;
+
+}
