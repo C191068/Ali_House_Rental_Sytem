@@ -37,5 +37,7 @@ Fig8: Admin sign in
 ![fail](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/ccfb627d-29a4-406d-b0ca-4a844cefef42)
 Fig9: for any wrong information
 
+![adminpanel](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/495b56f1-9fe3-4d0b-91d6-d614469660df)
 
+Fig10: Admin panel
 
