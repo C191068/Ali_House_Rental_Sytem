@@ -45,3 +45,16 @@ Fig10: Admin panel
 
 Fig11: Admin can see newly registered tenants here 
 
+![category](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a39a2e49-f121-4486-9865-f2f8b29c84a1)
+
+Fig12: category of Houses for Rent 
+
+
+
+
+
+
+
+
+
+
