@@ -14,3 +14,7 @@ Fig2: Full view of Homepage
 ![sign in page](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/6fcd54c9-beb1-424d-9552-a8f7112427ce)
 
 Fig3: Sign in page
+
+![sign up](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/26d01f37-2fd6-47c6-8895-b1ef98002e7d)
+
+Fig4: Sign up page
