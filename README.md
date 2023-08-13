@@ -49,6 +49,10 @@ Fig11: Admin can see newly registered tenants here
 
 Fig12: category of Houses for Rent 
 
+![family](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/f2ed19f2-1352-44b9-8cf3-96d2cd5e33f2)
+Fig13: family houses 
+
+
 
 
 
