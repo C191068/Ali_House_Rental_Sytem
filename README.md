@@ -52,8 +52,9 @@ Fig12: category of Houses for Rent
 ![family](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/f2ed19f2-1352-44b9-8cf3-96d2cd5e33f2)
 Fig13: family houses 
 
+![infofamily](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/17dcc6a8-87b9-40ec-8591-db220ac73f27)
 
-
+Fig14: Information of a house 
 
 
 
