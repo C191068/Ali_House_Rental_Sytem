@@ -41,3 +41,7 @@ Fig9: for any wrong information
 
 Fig10: Admin panel
 
+![tenants](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a391ee2b-23a0-462b-aa1c-864e273bed42)
+
+Fig11: Admin can see newly registered tenants here 
+
