@@ -38,7 +38,8 @@ Fig7: Profile page
 Fig12: category of Houses for Rent 
 
 
-![catbac](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/5808545b-8887-4fb9-877a-574541cc0eaf)
+![catbac](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/e87dca20-6c49-4684-8bee-321db35f026f)
+
  Category of bachelor houses
 
 
@@ -68,7 +69,11 @@ Step1 before booking a house for family house <br>
 
 Step1 before booking a house for bachelor house <br>
 
+![info2fam](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/29639020-91b6-4ea7-9191-8ed3072f3165)
+Step2 before booking a house for family house <br>
 
+![info2bac](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/29a9f573-8f50-4276-86ec-b44925f5de37)
+Step2 before booking a house for bachelor house <br>
 
 
 
