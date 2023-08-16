@@ -1,6 +1,6 @@
 # House Rental System Software 
 
-### Overview
+### User Interface 
 
 ![homepage](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/9746dd06-6038-47e0-9acf-8e1c8b5e8db6)
 
@@ -31,19 +31,7 @@ Fig6: Login success
 ![profile page](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/29d550ab-2fe3-4a71-bc09-ae9fa6180f70)
 Fig7: Profile page
 
-![adminsign](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/170eae5c-5f02-438c-8851-f90fd65ad26d)
-Fig8: Admin sign in
 
-![fail](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/ccfb627d-29a4-406d-b0ca-4a844cefef42)
-Fig9: for any wrong information
-
-![adminpanel](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/495b56f1-9fe3-4d0b-91d6-d614469660df)
-
-Fig10: Admin panel
-
-![tenants](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a391ee2b-23a0-462b-aa1c-864e273bed42)
-
-Fig11: Admin can see newly registered tenants here 
 
 ![category](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a39a2e49-f121-4486-9865-f2f8b29c84a1)
 
@@ -60,6 +48,24 @@ Fig14: Information of a house
 ![virt](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a7683e3d-8417-42fd-a52d-f21a981bb8e6)
 
 Fig15: Virtual tour of a house 
+
+
+### Admin Interface 
+
+
+![adminsign](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/170eae5c-5f02-438c-8851-f90fd65ad26d)
+Fig8: Admin sign in
+
+![fail](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/ccfb627d-29a4-406d-b0ca-4a844cefef42)
+Fig9: for any wrong information
+
+![adminpanel](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/495b56f1-9fe3-4d0b-91d6-d614469660df)
+
+Fig10: Admin panel
+
+![tenants](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/a391ee2b-23a0-462b-aa1c-864e273bed42)
+
+Fig11: Admin can see newly registered tenants here 
 
 
 
