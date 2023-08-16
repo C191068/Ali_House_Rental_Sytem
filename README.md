@@ -75,6 +75,9 @@ Step2 before booking a house for family house <br>
 ![info2bac](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/29a9f573-8f50-4276-86ec-b44925f5de37)
 Step2 before booking a house for bachelor house <br>
 
+![paymentuser](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/8f47a5b9-c531-47c1-aa82-43117f90631d)
+
+payment for booking confirmation <br>
 
 
 
