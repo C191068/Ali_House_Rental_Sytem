@@ -50,6 +50,13 @@ Fig14: Information of a house
 Fig15: Virtual tour of a house 
 
 
+![image](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/ebbffb5c-7ca8-4e02-a1fe-1be9b4359ca7)
+
+View Limitation of a house 
+
+
+
+
 ### Admin Interface 
 
 
