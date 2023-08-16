@@ -55,6 +55,19 @@ Fig15: Virtual tour of a house
 View Limitation of a house 
 
 
+![info1fam](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/79af9046-6d56-4ddd-8600-e478de292e18)
+
+Step1 before booking a house for family house <br>
+
+![info1bac](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/05314959-b24b-4649-97af-8b1bab227016)
+
+Step1 before booking a house for bachelor house <br>
+
+
+
+
+
+
 
 
 ### Admin Interface 
