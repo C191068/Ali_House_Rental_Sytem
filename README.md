@@ -100,6 +100,12 @@ Fig10: Admin panel
 
 Fig11: Admin can see newly registered tenants here 
 
+![verifyadmin](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/1a185cab-f205-4978-8a48-248844777825)
 
+Admin verify the customer by the following information <br>
+
+![paymentadmin](https://github.com/C191068/Ali_House_Rental_Sytem/assets/89090776/64159540-6e46-46cf-9da9-7be388fb4dad)
+
+Admin can see the payment
 
 
